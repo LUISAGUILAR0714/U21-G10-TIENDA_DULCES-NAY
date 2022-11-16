@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# build
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# VS Code
+.vscode/
+# VS Code
+.vscode/
+
